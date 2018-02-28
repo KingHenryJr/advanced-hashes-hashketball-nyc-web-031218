@@ -83,27 +83,27 @@ def game_hash
           :blocks => "7"
           :slam_dunks => "2"
         }
-        "Reggie Evans" => {
-          :number => "30"
-          :shoe => "14"
-          :points => "12"
-          :rebounds => "12"
-          :assists => "12"
-          :steals => "12"
-          :blocks => "12"
-          :slam_dunks => "7"
-        }
-        "Alan Anderson" => {
+        "Bismak Biyombo" => {
           :number => "0"
           :shoe => "16"
-          :points => "22"
+          :points => "12"
+          :rebounds => "4"
+          :assists => "7"
+          :steals => "3"
+          :blocks => "7"
+          :slam_dunks => "2"
+        }
+        "DeSagna Diop" => {
+          :number => "2"
+          :shoe => "14"
+          :points => "24"
           :rebounds => "12"
           :assists => "12"
-          :steals => "3"
-          :blocks => "1"
-          :slam_dunks => "1"
+          :steals => "4"
+          :blocks => "5"
+          :slam_dunks => "5"
         }
-        "Brook Lopez" => {
+        "Ben Gordon" => {
           :number => "11"
           :shoe => "17"
           :points => "17"
