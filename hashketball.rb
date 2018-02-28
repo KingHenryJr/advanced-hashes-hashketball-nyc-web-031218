@@ -163,8 +163,6 @@ def player_numbers(team_name)
         arr.push(stats[:number])
       end
     end
-  end
-  puts arr
   return arr
 end  
 
