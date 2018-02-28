@@ -147,8 +147,8 @@ def team_colors(teamname)
 end  
 
 def team_names()
-  casing = []
-  casing.push()
+  arr = []
+  
   
   
   
