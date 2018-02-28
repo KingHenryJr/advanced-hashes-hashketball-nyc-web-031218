@@ -149,8 +149,8 @@ end
 def team_names()
   arr = []
   game_hash.each do |location, data|
-    arr.push(game_hash[:home][team_name]) 
-    arr.push(game_hash[:away][team_name])
+    arr.push(game_hash[:home][:team_name]) 
+    arr.push(game_hash[:away][:team_name])
   return arr
   end
 end
