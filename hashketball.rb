@@ -73,14 +73,14 @@ def game_hash
           slam_dunks: "2",
           },
         "Bismak Biyombo" => {
-          :number => "0",
-          :shoe => "16",
-          :points => "12",
-          :rebounds => "4",
-          :assists => "7",
-          :steals => "3",
-          :blocks => "7",
-          :slam_dunks => "2"
+          number: "0",
+          shoe: "16",
+          points: "12",
+          rebounds: "4",
+          assists: "7",
+          steals: "3",
+          blocks: "7",
+          slam_dunks: "2"
           },
         "DeSagna Diop" => {
           :number => "2",
