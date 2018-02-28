@@ -176,7 +176,7 @@ def player_stats(player_name)
   end  
 end  
   
-def big_show_rebounds
+def big_shoe_rebounds()
   biggest_shoe = 0
   biggest_player = ""
   
