@@ -159,6 +159,8 @@ def player_numbers(team_name)
   arr = []
   game_hash.each do |location, data|
     if data[:team_name] === team_name
+      team
+      
       arr.push(data[:players][:shoe]) 
     end
   end
