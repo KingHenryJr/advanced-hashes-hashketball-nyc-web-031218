@@ -155,7 +155,15 @@ def team_names()
   end
 end
 
-
+def player_numbers(team_name)
+  arr = []
+  game_hash.each do |location, data|
+    if data[:team_name] === team_name
+      arr.push(data[:players][:shoe]) 
+    end
+  end
+  return arr
+end  
 
 
 
