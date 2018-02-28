@@ -81,7 +81,7 @@ def game_hash
           :assists => "7",
           :steals => "3",
           :blocks => "7",
-          :slam_dunks => "2",
+          :slam_dunks => "2"
         }
         "DeSagna Diop" => {
           :number => "2",
@@ -111,7 +111,7 @@ def game_hash
           :assists => "12",
           :steals => "22",
           :blocks => "5"
-          :slam_dunks => "12", 
+          :slam_dunks => "12"
         }  
       }
     }
