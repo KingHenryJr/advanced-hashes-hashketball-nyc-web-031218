@@ -132,7 +132,7 @@ def shoe_size(player_name)
   game_hash.each do |location, data|
     if data[:players].keys.include?(player_name)
       puts data[:players][player_name][:shoe]
-
+      return data[:players][player_name][:shoe]
 
 
 
