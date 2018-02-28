@@ -141,10 +141,9 @@ def team_colors(teamname)
   game_has.each do |location, data|
     if data[:team_name].values.include?(teamname)
       puts data[:colors].join("")
-  
-  
-  
-  
+      returns data[:colors].join("")
+    end 
+  end
 end  
 
 
