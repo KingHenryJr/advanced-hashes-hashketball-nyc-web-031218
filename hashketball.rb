@@ -162,6 +162,7 @@ def player_numbers(team_name)
       arr.push(data[:players][:shoe]) 
     end
   end
+  puts arr
   return arr
 end  
 
