@@ -186,7 +186,7 @@ def big_shoe_rebounds
         biggest_shoe = stats[:shoe]
         biggest_player = names
       
-        puts "#{biggest_player}"
+        return biggest_shoe
       end
     end
   end  
