@@ -133,8 +133,7 @@ def shoe_size(player_name)
     if data[:players].keys.include?(player_name)
       puts data[:players][player_name][:shoe]
       return data[:players][player_name][:shoe]
-
-
-
+    end
+  end
 end
 
