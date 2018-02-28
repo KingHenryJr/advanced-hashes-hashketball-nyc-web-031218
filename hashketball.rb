@@ -185,6 +185,9 @@ def big_show_rebounds
       if stats[:shoe] > biggest_shoe
         biggest_shoe = stats[:shoe]
         biggest_player = players
+      end
+    end
+  end  
 end
   
 
