@@ -186,7 +186,7 @@ def big_show_rebounds
         biggest_shoe = stats[:shoe]
         biggest_player = players
       
-        puts 
+        puts ""
       end
     end
   end  
