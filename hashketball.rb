@@ -182,7 +182,7 @@ def big_show_rebounds
   
   game_hash.each do |location, data|
     data.each do |players, stats|
-      
+      if stats
   
 end
   
